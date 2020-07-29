@@ -10,3 +10,5 @@ To serve the most recent content, the chrome extension uses [gitcdn.link](https:
 
 ## About
 This serves as a list of sites for the Chief Chrome Extension (private repo).
+
+**Confused? Check out the chrome extension repository.**
