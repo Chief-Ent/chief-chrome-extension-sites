@@ -48,5 +48,10 @@
       "link":"http://smartfarms.org",
       "site":"Smart Farm",
       "image":"smartFarm30.png"
+   },
+   {
+      "link": "https://developer.chrome.com/extensions/webRequest",
+      "site": "chrome",
+      "image": "paycor30.png"
    }
 ]
